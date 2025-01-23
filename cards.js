@@ -1,4 +1,4 @@
-const MajorCards = [
+const cards = [
     {
         "name": "The Fool",
         "number": 0,
