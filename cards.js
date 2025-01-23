@@ -701,3 +701,5 @@ const MajorCards = [
         "meaning": "The King of Wands is a symbol of leadership and inspiration. It represents the need to be open to new experiences and to trust in your intuition. The King of Wands is a reminder that we must learn to be patient and to take things one step at a time. The King of Wands is a symbol of leadership and inspiration. It represents the need to be open to new experiences and to trust in your intuition."
     }
 ];  
+
+export default cards;
