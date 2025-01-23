@@ -195,5 +195,509 @@ const MajorCards = [
         "type": "Major",
         "keywords": ["completion", "fulfillment", "wholeness", "integration"],
         "meaning": "The World is a symbol of completion and fulfillment. It represents the need to be whole and to integrate all aspects of your life. The World is a reminder that we must learn to be patient and to take things one step at a time. The World is a symbol of completion and fulfillment. It represents the need to be whole and to integrate all aspects of your life."
+    },
+
+    {
+        "name": "Ace of Cups",
+        "number": 22,
+        "img": require("/.assets/images/Ace_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["love", "emotions", "intuition", "creativity"],
+        "meaning": "The Ace of Cups is a symbol of love and emotions. It represents the need to be open to new experiences and to trust in your intuition. The Ace of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Ace of Cups is a symbol of love and emotions. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Two of Cups",
+        "number": 23,
+        "img": require("/.assets/images/Two_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["partnership", "relationships", "love", "unity"],
+        "meaning": "The Two of Cups is a symbol of partnership and relationships. It represents the need to be open to new experiences and to trust in your intuition. The Two of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Two of Cups is a symbol of partnership and relationships. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Three of Cups",
+        "number": 24,
+        "img": require("/.assets/images/Three_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["celebration", "friendship", "community", "joy"],
+        "meaning": "The Three of Cups is a symbol of celebration and joy. It represents the need to be open to new experiences and to trust in your intuition. The Three of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Three of Cups is a symbol of celebration and joy. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Four of Cups",
+        "number": 25,
+        "img": require("/.assets/images/Four_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["apathy", "discontent", "boredom", "meditation"],
+        "meaning": "The Four of Cups is a symbol of apathy and discontent. It represents the need to be open to new experiences and to trust in your intuition. The Four of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Four of Cups is a symbol of apathy and discontent. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Five of Cups",
+        "number": 26,
+        "img": require("/.assets/images/Five_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["loss", "grief", "regret", "forgiveness"],
+        "meaning": "The Five of Cups is a symbol of loss and grief. It represents the need to be open to new experiences and to trust in your intuition. The Five of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Five of Cups is a symbol of loss and grief. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Six of Cups",
+        "number": 27,
+        "img": require("/.assets/images/Six_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["nostalgia", "childhood", "innocence", "memories"],
+        "meaning": "The Six of Cups is a symbol of nostalgia and childhood. It represents the need to be open to new experiences and to trust in your intuition. The Six of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Six of Cups is a symbol of nostalgia and childhood. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Seven of Cups",
+        "number": 28,
+        "img": require("/.assets/images/Seven_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["illusion", "fantasy", "choices", "imagination"],
+        "meaning": "The Seven of Cups is a symbol of illusion and fantasy. It represents the need to be open to new experiences and to trust in your intuition. The Seven of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Seven of Cups is a symbol of illusion and fantasy. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Eight of Cups",
+        "number": 29,
+        "img": require("/.assets/images/Eight_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["disappointment", "abandonment", "withdrawal", "moving on"],
+        "meaning": "The Eight of Cups is a symbol of disappointment and abandonment. It represents the need to be open to new experiences and to trust in your intuition. The Eight of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Eight of Cups is a symbol of disappointment and abandonment. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Nine of Cups",
+        "number": 30,
+        "img": require("/.assets/images/Nine_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["satisfaction", "contentment", "gratitude", "wishes fulfilled"],
+        "meaning": "The Nine of Cups is a symbol of satisfaction and contentment. It represents the need to be open to new experiences and to trust in your intuition. The Nine of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Nine of Cups is a symbol of satisfaction and contentment. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Ten of Cups",
+        "number": 31,
+        "img": require("/.assets/images/Ten_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["harmony", "family", "happiness", "joy"],
+        "meaning": "The Ten of Cups is a symbol of harmony and family. It represents the need to be open to new experiences and to trust in your intuition. The Ten of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Ten of Cups is a symbol of harmony and family. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Page of Cups",
+        "number": 32,
+        "img": require("/.assets/images/Page_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["creativity", "intuition", "sensitivity", "dreams"],
+        "meaning": "The Page of Cups is a symbol of creativity and intuition. It represents the need to be open to new experiences and to trust in your intuition. The Page of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Page of Cups is a symbol of creativity and intuition. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Knight of Cups",
+        "number": 33,
+        "img": require("/.assets/images/Knight_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["romance", "charm", "passion", "creativity"],
+        "meaning": "The Knight of Cups is a symbol of romance and charm. It represents the need to be open to new experiences and to trust in your intuition. The Knight of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Knight of Cups is a symbol of romance and charm. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Queen of Cups",
+        "number": 34,
+        "img": require("/.assets/images/Queen_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["compassion", "empathy", "intuition", "nurturing"],
+        "meaning": "The Queen of Cups is a symbol of compassion and empathy. It represents the need to be open to new experiences and to trust in your intuition. The Queen of Cups is a reminder that we must learn to be patient and to take things one step at a time. The Queen of Cups is a symbol of compassion and empathy. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "King of Cups",
+        "number": 35,
+        "img": require("/.assets/images/King_of_Cups.jpg"),
+        "type": "Minor",
+        "keywords": ["emotion", "diplomacy", "calm", "control"],
+        "meaning": "The King of Cups is a symbol of emotion and diplomacy. It represents the need to be open to new experiences and to trust in your intuition. The King of Cups is a reminder that we must learn to be patient and to take things one step at a time. The King of Cups is a symbol of emotion and diplomacy. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Ace of Pentacles",
+        "number": 36,
+        "img": require("/.assets/images/Ace_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["prosperity", "new opportunity", "abundance", "manifestation"],
+        "meaning": "The Ace of Pentacles is a symbol of prosperity and new opportunity. It represents the need to be open to new experiences and to trust in your intuition. The Ace of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Ace of Pentacles is a symbol of prosperity and new opportunity. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Two of Pentacles",
+        "number": 37,
+        "img": require("/.assets/images/Two_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["balance", "flexibility", "adaptability", "juggling"],
+        "meaning": "The Two of Pentacles is a symbol of balance and flexibility. It represents the need to be open to new experiences and to trust in your intuition. The Two of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Two of Pentacles is a symbol of balance and flexibility. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Three of Pentacles",
+        "number": 38,
+        "img": require("/.assets/images/Three_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["teamwork", "collaboration", "learning", "implementation"],
+        "meaning": "The Three of Pentacles is a symbol of teamwork and collaboration. It represents the need to be open to new experiences and to trust in your intuition. The Three of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Three of Pentacles is a symbol of teamwork and collaboration. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Four of Pentacles",
+        "number": 39,
+        "img": require("/.assets/images/Four_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["control", "stability", "security", "possessiveness"],
+        "meaning": "The Four of Pentacles is a symbol of control and stability. It represents the need to be open to new experiences and to trust in your intuition. The Four of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Four of Pentacles is a symbol of control and stability. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Five of Pentacles",
+        "number": 40,
+        "img": require("/.assets/images/Five_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["loss", "poverty", "hardship", "isolation"],
+        "meaning": "The Five of Pentacles is a symbol of loss and poverty. It represents the need to be open to new experiences and to trust in your intuition. The Five of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Five of Pentacles is a symbol of loss and poverty. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Six of Pentacles",
+        "number": 41,
+        "img": require("/.assets/images/Six_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["generosity", "charity", "sharing", "prosperity"],
+        "meaning": "The Six of Pentacles is a symbol of generosity and charity. It represents the need to be open to new experiences and to trust in your intuition. The Six of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Six of Pentacles is a symbol of generosity and charity. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Seven of Pentacles",
+        "number": 42,
+        "img": require("/.assets/images/Seven_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["patience", "hard work", "perseverance", "vision"],
+        "meaning": "The Seven of Pentacles is a symbol of patience and hard work. It represents the need to be open to new experiences and to trust in your intuition. The Seven of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Seven of Pentacles is a symbol of patience and hard work. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Eight of Pentacles",
+        "number": 43,
+        "img": require("/.assets/images/Eight_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["apprenticeship", "education", "skill", "craftsmanship"],
+        "meaning": "The Eight of Pentacles is a symbol of apprenticeship and education. It represents the need to be open to new experiences and to trust in your intuition. The Eight of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Eight of Pentacles is a symbol of apprenticeship and education. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Nine of Pentacles",
+        "number": 44,
+        "img": require("/.assets/images/Nine_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["abundance", "luxury", "independence", "self-reliance"],
+        "meaning": "The Nine of Pentacles is a symbol of abundance and luxury. It represents the need to be open to new experiences and to trust in your intuition. The Nine of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Nine of Pentacles is a symbol of abundance and luxury. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Ten of Pentacles",
+        "number": 45,
+        "img": require("/.assets/images/Ten_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["legacy", "inheritance", "family", "tradition"],
+        "meaning": "The Ten of Pentacles is a symbol of legacy and inheritance. It represents the need to be open to new experiences and to trust in your intuition. The Ten of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Ten of Pentacles is a symbol of legacy and inheritance. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Page of Pentacles",
+        "number": 46,
+        "img": require("/.assets/images/Page_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["opportunity", "potential", "manifestation", "new beginnings"],
+        "meaning": "The Page of Pentacles is a symbol of opportunity and potential. It represents the need to be open to new experiences and to trust in your intuition. The Page of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Page of Pentacles is a symbol of opportunity and potential. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Knight of Pentacles",
+        "number": 47,
+        "img": require("/.assets/images/Knight_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["hard work", "reliability", "responsibility", "dedication"],
+        "meaning": "The Knight of Pentacles is a symbol of hard work and reliability. It represents the need to be open to new experiences and to trust in your intuition. The Knight of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Knight of Pentacles is a symbol of hard work and reliability. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Queen of Pentacles",
+        "number": 48,
+        "img": require("/.assets/images/Queen_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["nurturing", "abundance", "practicality", "security"],
+        "meaning": "The Queen of Pentacles is a symbol of nurturing and abundance. It represents the need to be open to new experiences and to trust in your intuition. The Queen of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The Queen of Pentacles is a symbol of nurturing and abundance. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "King of Pentacles",
+        "number": 49,
+        "img": require("/.assets/images/King_of_Pentacles.jpg"),
+        "type": "Minor",
+        "keywords": ["abundance", "prosperity", "security", "control"],
+        "meaning": "The King of Pentacles is a symbol of abundance and prosperity. It represents the need to be open to new experiences and to trust in your intuition. The King of Pentacles is a reminder that we must learn to be patient and to take things one step at a time. The King of Pentacles is a symbol of abundance and prosperity. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Ace of Swords",
+        "number": 50,
+        "img": require("/.assets/images/Ace_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["clarity", "truth", "justice", "communication"],
+        "meaning": "The Ace of Swords is a symbol of clarity and truth. It represents the need to be open to new experiences and to trust in your intuition. The Ace of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Ace of Swords is a symbol of clarity and truth. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Two of Swords",
+        "number": 51,
+        "img": require("/.assets/images/Two_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["indecision", "stalemate", "truce", "denial"],
+        "meaning": "The Two of Swords is a symbol of indecision and stalemate. It represents the need to be open to new experiences and to trust in your intuition. The Two of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Two of Swords is a symbol of indecision and stalemate. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Three of Swords",
+        "number": 52,
+        "img": require("/.assets/images/Three_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["heartbreak", "sadness", "grief", "loss"],
+        "meaning": "The Three of Swords is a symbol of heartbreak and sadness. It represents the need to be open to new experiences and to trust in your intuition. The Three of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Three of Swords is a symbol of heartbreak and sadness. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Four of Swords",
+        "number": 53,
+        "img": require("/.assets/images/Four_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["rest", "recovery", "contemplation", "meditation"],
+        "meaning": "The Four of Swords is a symbol of rest and recovery. It represents the need to be open to new experiences and to trust in your intuition. The Four of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Four of Swords is a symbol of rest and recovery. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Five of Swords",
+        "number": 54,
+        "img": require("/.assets/images/Five_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["conflict", "defeat", "failure", "loss"],
+        "meaning": "The Five of Swords is a symbol of conflict and defeat. It represents the need to be open to new experiences and to trust in your intuition. The Five of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Five of Swords is a symbol of conflict and defeat. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Six of Swords",
+        "number": 55,
+        "img": require("/.assets/images/Six_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["transition", "moving on", "recovery", "travel"],
+        "meaning": "The Six of Swords is a symbol of transition and moving on. It represents the need to be open to new experiences and to trust in your intuition. The Six of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Six of Swords is a symbol of transition and moving on. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Seven of Swords",
+        "number": 56,
+        "img": require("/.assets/images/Seven_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["deception", "betrayal", "dishonesty", "theft"],
+        "meaning": "The Seven of Swords is a symbol of deception and betrayal. It represents the need to be open to new experiences and to trust in your intuition. The Seven of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Seven of Swords is a symbol of deception and betrayal. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Eight of Swords",
+        "number": 57,
+        "img": require("/.assets/images/Eight_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["restriction", "imprisonment", "fear", "powerlessness"],
+        "meaning": "The Eight of Swords is a symbol of restriction and imprisonment. It represents the need to be open to new experiences and to trust in your intuition. The Eight of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Eight of Swords is a symbol of restriction and imprisonment. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Nine of Swords",
+        "number": 58,
+        "img": require("/.assets/images/Nine_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["anxiety", "fear", "worry", "nightmares"],
+        "meaning": "The Nine of Swords is a symbol of anxiety and fear. It represents the need to be open to new experiences and to trust in your intuition. The Nine of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Nine of Swords is a symbol of anxiety and fear. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Ten of Swords",
+        "number": 59,
+        "img": require("/.assets/images/Ten_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["betrayal", "pain", "loss", "endings"],
+        "meaning": "The Ten of Swords is a symbol of betrayal and pain. It represents the need to be open to new experiences and to trust in your intuition. The Ten of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Ten of Swords is a symbol of betrayal and pain. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Page of Swords",
+        "number": 60,
+        "img": require("/.assets/images/Page_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["curiosity", "communication", "new ideas", "learning"],
+        "meaning": "The Page of Swords is a symbol of curiosity and communication. It represents the need to be open to new experiences and to trust in your intuition. The Page of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Page of Swords is a symbol of curiosity and communication. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Knight of Swords",
+        "number": 61,
+        "img": require("/.assets/images/Knight_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["action", "ambition", "speed", "determination"],
+        "meaning": "The Knight of Swords is a symbol of action and ambition. It represents the need to be open to new experiences and to trust in your intuition. The Knight of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Knight of Swords is a symbol of action and ambition. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Queen of Swords",
+        "number": 62,
+        "img": require("/.assets/images/Queen_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["clarity", "intelligence", "independence", "truth"],
+        "meaning": "The Queen of Swords is a symbol of clarity and intelligence. It represents the need to be open to new experiences and to trust in your intuition. The Queen of Swords is a reminder that we must learn to be patient and to take things one step at a time. The Queen of Swords is a symbol of clarity and intelligence. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "King of Swords",
+        "number": 63,
+        "img": require("/.assets/images/King_of_Swords.jpg"),
+        "type": "Minor",
+        "keywords": ["authority", "power", "control", "truth"],
+        "meaning": "The King of Swords is a symbol of authority and power. It represents the need to be open to new experiences and to trust in your intuition. The King of Swords is a reminder that we must learn to be patient and to take things one step at a time. The King of Swords is a symbol of authority and power. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Ace of Wands",
+        "number": 64,
+        "img": require("/.assets/images/Ace_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["inspiration", "new beginnings", "creativity", "potential"],
+        "meaning": "The Ace of Wands is a symbol of inspiration and new beginnings. It represents the need to be open to new experiences and to trust in your intuition. The Ace of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Ace of Wands is a symbol of inspiration and new beginnings. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Two of Wands",
+        "number": 65,
+        "img": require("/.assets/images/Two_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["planning", "preparation", "goals", "future"],
+        "meaning": "The Two of Wands is a symbol of planning and preparation. It represents the need to be open to new experiences and to trust in your intuition. The Two of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Two of Wands is a symbol of planning and preparation. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Three of Wands",
+        "number": 66,
+        "img": require("/.assets/images/Three_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["expansion", "exploration", "leadership", "vision"],
+        "meaning": "The Three of Wands is a symbol of expansion and exploration. It represents the need to be open to new experiences and to trust in your intuition. The Three of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Three of Wands is a symbol of expansion and exploration. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Four of Wands",
+        "number": 67,
+        "img": require("/.assets/images/Four_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["celebration", "harmony", "home", "community"],
+        "meaning": "The Four of Wands is a symbol of celebration and harmony. It represents the need to be open to new experiences and to trust in your intuition. The Four of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Four of Wands is a symbol of celebration and harmony. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Five of Wands",
+        "number": 68,
+        "img": require("/.assets/images/Five_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["competition", "conflict", "struggle", "disagreement"],
+        "meaning": "The Five of Wands is a symbol of competition and conflict. It represents the need to be open to new experiences and to trust in your intuition. The Five of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Five of Wands is a symbol of competition and conflict. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Six of Wands",
+        "number": 69,
+        "img": require("/.assets/images/Six_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["victory", "success", "recognition", "achievement"],
+        "meaning": "The Six of Wands is a symbol of victory and success. It represents the need to be open to new experiences and to trust in your intuition. The Six of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Six of Wands is a symbol of victory and success. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Seven of Wands",
+        "number": 70,
+        "img": require("/.assets/images/Seven_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["challenge", "competition", "defensiveness", "perseverance"],
+        "meaning": "The Seven of Wands is a symbol of challenge and competition. It represents the need to be open to new experiences and to trust in your intuition. The Seven of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Seven of Wands is a symbol of challenge and competition. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Eight of Wands",
+        "number": 71,
+        "img": require("/.assets/images/Eight_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["movement", "action", "change", "communication"],
+        "meaning": "The Eight of Wands is a symbol of movement and action. It represents the need to be open to new experiences and to trust in your intuition. The Eight of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Eight of Wands is a symbol of movement and action. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Nine of Wands",
+        "number": 72,
+        "img": require("/.assets/images/Nine_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["resilience", "strength", "courage", "persistence"],
+        "meaning": "The Nine of Wands is a symbol of resilience and strength. It represents the need to be open to new experiences and to trust in your intuition. The Nine of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Nine of Wands is a symbol of resilience and strength. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Ten of Wands",
+        "number": 73,
+        "img": require("/.assets/images/Ten_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["burden", "overwhelm", "responsibility", "hard work"],
+        "meaning": "The Ten of Wands is a symbol of burden and overwhelm. It represents the need to be open to new experiences and to trust in your intuition. The Ten of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Ten of Wands is a symbol of burden and overwhelm. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Page of Wands",
+        "number": 74,
+        "img": require("/.assets/images/Page_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["enthusiasm", "inspiration", "creativity", "potential"],
+        "meaning": "The Page of Wands is a symbol of enthusiasm and inspiration. It represents the need to be open to new experiences and to trust in your intuition. The Page of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Page of Wands is a symbol of enthusiasm and inspiration. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Knight of Wands",
+        "number": 75,
+        "img": require("/.assets/images/Knight_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["adventure", "action", "passion", "risk"],
+        "meaning": "The Knight of Wands is a symbol of adventure and action. It represents the need to be open to new experiences and to trust in your intuition. The Knight of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Knight of Wands is a symbol of adventure and action. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "Queen of Wands",
+        "number": 76,
+        "img": require("/.assets/images/Queen_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["confidence", "energy", "passion", "creativity"],
+        "meaning": "The Queen of Wands is a symbol of confidence and energy. It represents the need to be open to new experiences and to trust in your intuition. The Queen of Wands is a reminder that we must learn to be patient and to take things one step at a time. The Queen of Wands is a symbol of confidence and energy. It represents the need to be open to new experiences and to trust in your intuition."
+    },
+
+    {
+        "name": "King of Wands",
+        "number": 77,
+        "img": require("/.assets/images/King_of_Wands.jpg"),
+        "type": "Minor",
+        "keywords": ["leadership", "inspiration", "vision", "action"],
+        "meaning": "The King of Wands is a symbol of leadership and inspiration. It represents the need to be open to new experiences and to trust in your intuition. The King of Wands is a reminder that we must learn to be patient and to take things one step at a time. The King of Wands is a symbol of leadership and inspiration. It represents the need to be open to new experiences and to trust in your intuition."
     }
-];
+];  
